@@ -1,6 +1,6 @@
 ---
 layout: default
-title: (Just for testing)
+title: Visual Studio Code
 nav_order: 2
 ---
 

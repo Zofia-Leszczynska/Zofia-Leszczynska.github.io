@@ -1,6 +1,6 @@
 ---
 layout: default
-title: (Just for testing)
+title: Markdown basics
 nav_order: 3
 ---
 

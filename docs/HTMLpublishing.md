@@ -1,6 +1,6 @@
 ---
 layout: default
-title: (Just for testing)
+title: Publishing HTML from a repository
 nav_order: 6
 ---
 
