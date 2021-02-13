@@ -13,33 +13,33 @@ nav_order: 2
    
 ![Installation](./images/Instalacja.jpg)
 
-3. Then click *Download*.
+3. Then select *Download*.
 
 ### 1.2. How to install extensions to VS Code?
 
-1. Click *View*.
-2. Then click *Extensions*.
+1. Open *View*.
+2. Select *Extensions*.
 3. Find and select from the list the extension you are interested in.
 
-Recommended extension: *Markdown All In One* - it will allow you to generate a table of contents and make it easier to format your document.
+Recommended extension: *Markdown All In One* - it allows you to generate a table of contents and make it easier to format your document.
 
 ### 1.3. Useful VS Code options 
 
 #### 1.3.1. Commands
 
-If you want to find the command you need, click **Shift+Ctrl+p**.
+If you want to find the command you need, select **Shift+Ctrl+p**.
 
 #### 1.3.2. Preview
 
-If you want to generate a preview of your document, click *Open Preview to the Side* in the upper right corner.
+If you want to generate a preview of your document, select *Open Preview to the Side* in the upper right corner.
 
 #### 1.3.3. Displaying whitespace
 
-If you want to see whitespace between words, click *View*. Then click *Render Whitespace*.
+If you want to see whitespace between words, select *View*. Then select *Render Whitespace*.
 
 #### 1.3.4. Suggestions
 
-If you want the program to suggest you a word or formatting element, click **Ctrl+Space**.
+If you want the program to suggest you a word or formatting element, select **Ctrl+Space**.
 
 #### 1.3.5. Formatting suggestions
 
