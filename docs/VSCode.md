@@ -11,9 +11,10 @@ nav_order: 2
 1. To install VS Code, go to [code.visualstudio.com](https://code.visualstudio.com/).
 2. Select from the list the operating system you are using.  
    
-![Installation](./images/Instalacja.jpg)
+![Installation](/assets/images/Instalacja.jpg)
 
-3. Then select *Download*.
+
+1. Then select *Download*.
 
 ### 1.2. How to install extensions to VS Code?
 
@@ -50,4 +51,4 @@ If you want to configure the program to suggest you formatting elements rather t
 3. Then select *Markdown*.
 4. When the *settings.json* file opens, type  `false` instead of `true` after the: `"editor.suggest.showWords":`
 
-![False](./images/false.jpg)
+![False](/assets/images/false.jpg)
