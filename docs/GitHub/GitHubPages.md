@@ -1,7 +1,7 @@
 ---
 layout: default
 title: GitHub Pages
-nav_order: 6
+nav_order: 5
 ---
 
 # GitHub Pages 
@@ -29,7 +29,7 @@ To create GitHub Pages repository, follow the instructions:
 2. In the top menu click ***File***.
 3. Select ***New File***.
 4. Name the file as *index.html*.
-5. Write any content in HTMl.
+5. Write any content in HTML.
 6. Save the file.
 7. To add the file to GitHub, open GitHub Desktop.
 8. Select a repository from the list.
