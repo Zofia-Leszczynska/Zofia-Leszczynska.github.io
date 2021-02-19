@@ -16,6 +16,7 @@ In this section you will learn:
 # Creating an account
 
 To create an account on GitHub, perform the following actions:
+
 1. Go to [github.com](https://github.com).
 2. Select *Sign up for GitHub*.    
    ![Sign up for GitHub](../../assets/images/SignUp.png)
@@ -28,6 +29,22 @@ To create an account on GitHub, perform the following actions:
 1. Install [GitHub Desktop Client](https://desktop.github.com/) on your computer.  
    
 2. If you want to connect GitHub Desktop with GitHub, you'll need to authenticate your account. If you need more information, go to [docs.github.com](https://docs.github.com/en/desktop/installing-and-configuring-github-desktop/authenticating-to-github).
+
+# Private repository
+
+You have two ways to create a new repository. You can do this through GitHub or GitHub Desktop.  
+
+To create a private repository on GitHub, perform the following actions:
+
+1. Log in to your account.
+2. Then click *New* at the top left of the screen.
+3. In the specified field, type the name of the repository.
+4. Select *Private*.
+5. Then click *Create repository*.  
+   
+To create a private repository on GitHub Desktop, perform the following actions:
+
+
 
 
 
