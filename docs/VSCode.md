@@ -8,7 +8,13 @@ nav_order: 2
 
    ![VSC](/assets/images/opengraph-home.png)  
 
-Visual Studio Code (VS Code) is a lightweight source code editor. It runs on desktops and you can use it on Windows, macOS and Linux.
+Visual Studio Code (VS Code) is a lightweight source code editor. It runs on desktops and you can use it on Windows, macOS and Linux.  
+  
+Developers mostly use VS Code for programming in languages like C++, C#, Java, Python, PHP, Go, for example. Technical writers find VS Code helpful when writing in [Markdown](https://zofia-leszczynska.github.io/docs/MarkdownBasics.html).  
+
+In this section, you will learn how to install VS Code and its extensions, as well as how to use the helpful options that VS Code offers.
+
+
 
 ### Table of Contents
 
