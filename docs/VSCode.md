@@ -8,9 +8,7 @@ nav_order: 2
 
    ![VSC](/assets/images/opengraph-home.png)  
 
-Visual Studio Code (VS Code) is a lightweight source code editor which runs on desktops and is available for Windows, macOS and Linux.
-
-
+Visual Studio Code (VS Code) is a lightweight source code editor. It runs on desktops and you can use it on Windows, macOS and Linux.
 
 ### Table of Contents
 
@@ -33,41 +31,41 @@ Visual Studio Code (VS Code) is a lightweight source code editor which runs on d
    ![Installation](/assets/images/Instalacja.jpg)
 
 
-3. Then select *Download*.
+3. Then select ***Download***.
 
 # How to install extensions to VS Code?
 
-1. Open *View*.
-2. Select *Extensions*.
+1. Open ***View***.
+2. Select ***Extensions***.
 3. Find and select from the list the extension you are interested in.
 
-**Recommended extension**: *Markdown All In One* - it allows you to generate a table of contents and make it easier to format your document.
+**Recommended extension**: ***Markdown All In One*** - it allows you to generate a table of contents and make it easier to format your document.
 
 # Useful VS Code options 
 
 ## Commands
 
-If you want to find the command you need, select **Shift+Ctrl+p**.
+If you want to find the command you need, click **Shift+Ctrl+p**.
 
 ## Preview
 
-If you want to generate a preview of your document, select *Open Preview to the Side* in the upper right corner.
+If you want to generate a preview of your document, select ***Open Preview to the Side*** in the upper right corner.
 
 ## Displaying whitespace
 
-If you want to see whitespace between words, select *View*. Then select *Render Whitespace*.
+If you want to see whitespace between words, select ***View***. Then select ***Render Whitespace***.
 
 ## Suggestions
 
-If you want the program to suggest you a word or formatting element, select **Ctrl+Space**.
+If you want the program to suggest you a word or formatting element, click **Ctrl+Space**.
 
 ## Formatting suggestions
 
 If you want to configure the program to suggest you formatting elements rather than words, follow the instructions below:
 
 1. Click **Shift+Ctrl+p**.
-2. Find and select *Preferences: Configure Language Specific Settings*.
-3. Then select *Markdown*.
-4. When the *settings.json* file opens, type  `false` instead of `true` after the: `"editor.suggest.showWords":`
+2. Find and select ***Preferences: Configure Language Specific Settings***.
+3. Then select ***Markdown***.
+4. When the ***settings.json*** file opens, type  **`false`** instead of **`true`** after the: **`"editor.suggest.showWords":`**
 
    ![False](/assets/images/false.jpg)
