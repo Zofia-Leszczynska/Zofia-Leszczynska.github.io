@@ -25,5 +25,19 @@ To create GitHub Pages repository, follow the instructions:
 
 ## Adding files to GitHub Pages repository
 
+1. Open your GitHub Pages repository in VS Code.
+2. In the top menu click ***File***.
+3. Select ***New File***.
+4. Name the file as *index.html*.
+5. Write any content in HTMl.
+6. Save the file.
+7. To add the file to GitHub, open GitHub Desktop.
+8. Select a repository from the list.
+9. Go into ***Changes***.
+10. If the change summary name did not automatically generate, type the name in the space specified.
+11. Select ***Commit to master***.
+12. Then select ***Publish branch***.
+13. To check if your web page works, go into browser.
+14. In the web browser type the name of your GitHub Pages repository:  *my_username.github.io*.
 
 
