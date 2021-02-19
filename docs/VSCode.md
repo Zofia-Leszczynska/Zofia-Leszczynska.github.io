@@ -4,45 +4,64 @@ title: Visual Studio Code
 nav_order: 2
 ---
 
-## 1. Visual Studio Code
+# Visual Studio Code <!-- omit in toc -->
 
-### 1.1. How to install VS Code?
+   ![VSC](/assets/images/opengraph-home.png)  
+
+Visual Studio Code (VS Code) is a lightweight source code editor which runs on desktops and is available for Windows, macOS and Linux.
+
+
+
+### Table of Contents
+
+- [How to install VS Code?](#how-to-install-vs-code)
+- [How to install extensions to VS Code?](#how-to-install-extensions-to-vs-code)
+- [Useful VS Code options](#useful-vs-code-options)
+  - [Commands](#commands)
+  - [Preview](#preview)
+  - [Displaying whitespace](#displaying-whitespace)
+  - [Suggestions](#suggestions)
+  - [Formatting suggestions](#formatting-suggestions)
+
+
+
+# How to install VS Code?
 
 1. To install VS Code, go to [code.visualstudio.com](https://code.visualstudio.com/).
 2. Select from the list the operating system you are using.  
    
-![Installation](/assets/images/Instalacja.jpg)
+   ![Installation](/assets/images/Instalacja.jpg)
 
 
-1. Then select *Download*.
+3. Then select *Download*.
 
-### 1.2. How to install extensions to VS Code?
+# How to install extensions to VS Code?
 
 1. Open *View*.
 2. Select *Extensions*.
 3. Find and select from the list the extension you are interested in.
 
-Recommended extension: *Markdown All In One* - it allows you to generate a table of contents and make it easier to format your document.
+**Recommended extension**: *Markdown All In One* - it allows you to generate a table of contents and make it easier to format your document.
 
-### 1.3. Useful VS Code options 
+# Useful VS Code options 
 
-#### 1.3.1. Commands
+## Commands
 
 If you want to find the command you need, select **Shift+Ctrl+p**.
 
-#### 1.3.2. Preview
+## Preview
 
 If you want to generate a preview of your document, select *Open Preview to the Side* in the upper right corner.
 
-#### 1.3.3. Displaying whitespace
+## Displaying whitespace
 
 If you want to see whitespace between words, select *View*. Then select *Render Whitespace*.
 
-#### 1.3.4. Suggestions
+## Suggestions
 
 If you want the program to suggest you a word or formatting element, select **Ctrl+Space**.
 
-#### 1.3.5. Formatting suggestions
+## Formatting suggestions
 
 If you want to configure the program to suggest you formatting elements rather than words, follow the instructions below:
 
@@ -51,4 +70,4 @@ If you want to configure the program to suggest you formatting elements rather t
 3. Then select *Markdown*.
 4. When the *settings.json* file opens, type  `false` instead of `true` after the: `"editor.suggest.showWords":`
 
-![False](/assets/images/false.jpg)
+   ![False](/assets/images/false.jpg)
