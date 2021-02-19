@@ -63,7 +63,9 @@ If you want to invite collaborators to your private repository, perform the foll
 2. On the right side of the screen you will see a list of all your repositories. Select the one you want to share.
 3. On your repository page, select ***Settings***.
 4. Then select ***Manage access*** from the list on the left side of the screen.  
+   
    **📝 Note:** At this point you may be asked to re-enter your account password.
+   
 5. Click ***Invite a collaborator***.
 6. Type the user’s name account you want to invite.
 7. Click ***Select a collaborator above***.
