@@ -1,6 +1,6 @@
 ---
 layout: default
-title: How to create and publish documentation?
+title: Getting started with technical writing
 nav_order: 1
 description: "Instructions for creating and publishing documentation"
 permalink: /
@@ -8,6 +8,6 @@ permalink: /
 
 
 
-# How to create and publish documentation?
+# Getting started with technical writing
 
 
