@@ -4,10 +4,13 @@ title: Markdown basics
 nav_order: 3
 ---
 
-## 3. Markdown basics
+# Markdown 
 
-Basic Markdown syntax elements:
-* titles
+Markdown is a markup language for creating formatted text using a plain-text editor. It was created in 2004 by John Gruber and Aaron Swartz. Technical writers often use Markdown to create documentation pages.
+
+Basic elements of Markdown syntax:
+
+* headers
 * paragraphs
 * line breaks
 * bold
@@ -16,7 +19,6 @@ Basic Markdown syntax elements:
 * blockquotes
 * links
 * images
-* headers
 * ordered lists
 * unordered lists
 * tables
