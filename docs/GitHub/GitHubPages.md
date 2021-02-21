@@ -4,9 +4,14 @@ title: GitHub Pages
 nav_order: 5
 ---
 
-# GitHub Pages 
+# GitHub Pages <!-- omit in toc -->
 
 GitHub Pages is a static site hosting service that takes HTML, CSS, and JavaScript files straight from a repository on GitHub, optionally runs the files through a build process, and publishes a website. 
+
+## Table of Contents <!-- omit in toc -->
+
+- [Public GitHub Pages repository](#public-github-pages-repository)
+- [Adding files to GitHub Pages repository](#adding-files-to-github-pages-repository)
 
 ## Public GitHub Pages repository
 
