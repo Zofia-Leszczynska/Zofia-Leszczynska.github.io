@@ -44,7 +44,7 @@ If you don't want to create the set of files needed to generate the page yoursel
 
 6. Click ***Code*** and select ***Open with GitHub Desktop***.  
 
-    ![Code](/assets/images/code.png) 
+    ![Code](/assets/images/code2.png) 
 
 
 
