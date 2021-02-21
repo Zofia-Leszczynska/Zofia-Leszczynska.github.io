@@ -52,8 +52,18 @@ If you don't want to create the set of files needed to generate the page yoursel
 ### How to prepare your repository for configuration
 
 1. Open your repository in VS Code.
-2. In the top left corner click ***File***, then select ***Add Folder to Workspace...***
-3. Select ***just-the-docs*** and click ***Add***. Now you should see your repository and ***just-the-docs*** in the Workspace in the left sidebar.
+
+    ![Open your repository](/assets/images/open.png) 
+
+2. In the top left corner click ***File***, then select ***Add Folder to Workspace...***  
+
+    ![File](/assets/images/file.png) 
+
+3. Select ***just-the-docs*** and click ***Add***. 
+   
+   ![just-the-docs Add](/assets/images/just-the-docsAdd.png) 
+
+   Now you should see your repository and ***just-the-docs*** in the Workspace in the left sidebar.
 
 ### How to configure your repository with ***just-the-docs***
 
@@ -71,6 +81,9 @@ If you don't want to create the set of files needed to generate the page yoursel
    **Example:** If your username is *John30*, type: *"Source repository on GitHub": - "//github.com/John30/John30.github.io"*
 
 5. After the **`footer_content:`** type any text you want in the footer of your page.
+   
+   ![_config.yml](/assets/images/config.png)
+
 6. Copy main ***index.md*** file from ***just-the-docs*** to your repository and open it.
 7. After the **`title:`** type the title of the homepage. It will also be visible in the table of contents.
 8. After the **`nav_order:`** should be "***1***".
