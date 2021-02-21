@@ -1,3 +1,10 @@
+---
+layout: default
+title: Static site generators
+nav_order: 5
+---
+
+
 # Static site generators
 
 To publish your documentation on GitHub Pages, you don't have to create the HTML files yourself. You can use static site generator, that is, a software application that creates HTML pages from templates or components and a given content source. Most static site generators accept files written in Markdown. 
