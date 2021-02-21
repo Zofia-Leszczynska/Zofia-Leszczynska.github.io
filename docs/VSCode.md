@@ -70,8 +70,18 @@ If you want the program to suggest you a word or formatting element, click **Ctr
 If you want to configure the program to suggest you formatting elements rather than words, follow the instructions below:
 
 1. Click **Shift+Ctrl+p**.
-2. Find and select ***Preferences: Configure Language Specific Settings***.
+2. Find and select ***Preferences: Configure Language Specific Settings***.  
+  
+    ![Preferences: Configure Language Specific Settings](/assets/images/preferences.png)
+
 3. Then select ***Markdown***.
-4. When the ***settings.json*** file opens, type  **`false`** instead of **`true`** after the: **`"editor.suggest.showWords":`**
+
+    ![Markdown](/assets/images/markdown.png)
+
+4. When the ***settings.json*** file opens, select **`"editor.suggest.showWords":`**
+
+   ![editor.suggest.showWords](/assets/images/editor.png)
+
+5. After the: **`"editor.suggest.showWords":`** type **`false`** instead of **`true`** .
 
    ![False](/assets/images/false.jpg)

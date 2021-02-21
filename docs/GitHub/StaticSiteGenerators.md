@@ -29,10 +29,25 @@ If you don't want to create the set of files needed to generate the page yoursel
   
 1. Go to GitHub.
 2. Log in to your account.
-3. In the top left corner on GitHub search for ***just-the-docs*** repository by ***pmarsceill*** and select it.
-4. To copy the repository click ***Fork***.
-5. Click ***Code***.
-6. Select ***Open with GitHub Desktop***.
+3. In the top left corner on GitHub search for ***just-the-docs***.
+
+   ![just-the-docs](/assets/images/just-the-docs.png)
+
+4. Then select repository by ***pmarsceill***.  
+
+   ![pmarsceill](/assets/images/pmarsceill.png) 
+
+
+5. To copy the repository click ***Fork***.  
+
+   ![Fork](/assets/images/fork.png) 
+
+6. Click ***Code*** and select ***Open with GitHub Desktop***.  
+
+    ![Code](/assets/images/code.png) 
+
+
+
 
 ### How to prepare your repository for configuration
 
