@@ -55,6 +55,6 @@ The ***_config.yml*** and ***index.md*** are the two primary files that should b
 
 
 
-If you need more information, please use the documentation provided by the creator of Just the Docs: 
+If you need more information, please use the documentation provided by the creator of Just the Docs: [pmarsceill.github.io/just-the-docs/](https://pmarsceill.github.io/just-the-docs/).
 
 
