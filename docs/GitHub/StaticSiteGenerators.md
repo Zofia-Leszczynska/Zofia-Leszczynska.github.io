@@ -100,15 +100,13 @@ If you don't want to create the set of files needed to generate the page yoursel
 
    ![index.md](/assets/images/index.png)
 
-The ***_config.yml*** and ***index.md*** are the two primary files that should be in your repository. The simplest sites have three more folders appearing in the repository. You can find them in the table below.  
-
+The ***_config.yml*** and ***index.md*** are the two primary files that should be in your repository. The simplest sites have three more folders appearing in the repository. You can find them in the table below.   
+   
 | Folder | Description |
 | ------ | ----------- |
 | ***docs***   | This folder is for your text files. You can also put here subfolders for separate chapters. |
-| ***assets*** | This folder contains the ***Images*** subfolder where the images are located.|
-| ***_includes*** |This folder is for SVG files.  |
-
-
+| ***assets*** | This folder contains the ***Images*** subfolder where the images are located. |
+| ***_includes*** |This folder is for SVG files. |
 
 
 
