@@ -29,7 +29,7 @@ To create an account on GitHub, perform the following actions:
    
 3. Then enter the necessary information and click ***Create account***.     
 
-   ![Create account](../../assets/images/CreateAccount.png){: style="width: 10px;"}
+   ![Create account](../../assets/images/CreateAccount.png){: style="width: 200px;"}
 
 # GitHub Desktop 
 
