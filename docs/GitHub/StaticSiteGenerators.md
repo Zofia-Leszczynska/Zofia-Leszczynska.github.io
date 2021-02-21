@@ -5,9 +5,17 @@ nav_order: 6
 ---
 
 
-# Static site generators
+# Static site generators <!-- omit in toc -->
 
 To publish your documentation on GitHub Pages, you don't have to create the HTML files yourself. You can use static site generator, that is, a software application that creates HTML pages from templates or components and a given content source. Most static site generators accept files written in Markdown. 
+
+## Table of Contents <!-- omit in toc -->
+
+- [Jekyll](#jekyll)
+  - [Configuring Jekyll](#configuring-jekyll)
+    - [How to copy ***just-the-docs*** to your repository](#how-to-copy-just-the-docs-to-your-repository)
+    - [How to prepare your repository for configuration](#how-to-prepare-your-repository-for-configuration)
+    - [How to configure your repository with ***just-the-docs***](#how-to-configure-your-repository-with-just-the-docs)
 
 # Jekyll
 
