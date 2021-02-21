@@ -57,11 +57,10 @@ If you don't want to create the set of files needed to generate the page yoursel
 
 2. In the top left corner click ***File***, then select ***Add Folder to Workspace...***  
 
-    ![File](/assets/images/file.png) 
 
 3. Select ***just-the-docs*** and click ***Add***. 
    
-   ![just-the-docs Add](/assets/images/just-the-docsAdd.png) 
+
 
    Now you should see your repository and ***just-the-docs*** in the Workspace in the left sidebar.
 
@@ -93,7 +92,6 @@ If you don't want to create the set of files needed to generate the page yoursel
    ![index.md](/assets/images/index.png)
 
 The ***_config.yml*** and ***index.md*** are the two primary files that should be in your repository. The simplest sites have three more folders appearing in the repository. You can find them in the table below.
-
 | Folder | Description |
 | ------ | ----------- |
 | ***docs***   | This folder is for your text files. You can also put here subfolders for separate chapters. |
