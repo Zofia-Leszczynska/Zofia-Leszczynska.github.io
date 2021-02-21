@@ -74,15 +74,15 @@ If you don't want to create the set of files needed to generate the page yoursel
 
 3. After the **`remote_theme:`** type: ***my_username/just-the-docs***.
 
-   **Example:** If your username is *John30*, type: *John30/just-the-docs*.
-
 4. After the **`aux_links:`** type: ***"Source repository on GitHub": - "//github.com/my_username/my_username.github.io"***.
    
-   **Example:** If your username is *John30*, type: *"Source repository on GitHub": - "//github.com/John30/John30.github.io"*
+
 
 5. After the **`footer_content:`** type any text you want in the footer of your page.
+
+   Below you can see an example of a configured ***_config.yml*** file:
    
-   ![_config.yml](/assets/images/config.png)
+   ![_config.yml](/assets/images/yml2.png)
 
 6. Copy main ***index.md*** file from ***just-the-docs*** to your repository and open it.
 7. After the **`title:`** type the title of the homepage. It will also be visible in the table of contents.
