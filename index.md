@@ -16,6 +16,11 @@ On this page you will find useful information for the beginning technical writer
 * how to write in [Markdown](https://zofia-leszczynska.github.io/docs/MarkdownBasics.html)
 * what [GitHub](https://zofia-leszczynska.github.io/docs/GitHub/GitHub1.html) is and how to use it
 * how to create [GitHub Pages](https://zofia-leszczynska.github.io/docs/GitHub/GitHubPages.html)
-* what are [static site generators](https://zofia-leszczynska.github.io/docs/GitHub/StaticSiteGenerators.html) and how to use them
+* what are [static site generators](https://zofia-leszczynska.github.io/docs/GitHub/StaticSiteGenerators.html) and how to use them  
+
+  ![Technical Writer](assets/images/Technical-Writer.png)
+
+
+
 
 
