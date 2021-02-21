@@ -86,7 +86,11 @@ If you don't want to create the set of files needed to generate the page yoursel
 
 6. Copy main ***index.md*** file from ***just-the-docs*** to your repository and open it.
 7. After the **`title:`** type the title of the homepage. It will also be visible in the table of contents.
-8. After the **`nav_order:`** should be "***1***".
+8. After the **`nav_order:`** type ***1***.
+
+   Below you can see an example of a configured ***index.md*** file:
+
+   ![index.md](/assets/images/index.png)
 
 The ***_config.yml*** and ***index.md*** are the two primary files that should be in your repository. The simplest sites have three more folders appearing in the repository. You can find them in the table below.
 
@@ -95,6 +99,8 @@ The ***_config.yml*** and ***index.md*** are the two primary files that should b
 | ***docs***   | This folder is for your text files. You can also put here subfolders for separate chapters. |
 | ***assets*** | This folder contains the ***Images*** subfolder where the images are located.|
 | ***_includes*** |This folder is for SVG files.  |
+
+
 
 
 
