@@ -57,11 +57,10 @@ If you don't want to create the set of files needed to generate the page yoursel
 
 2. In the top left corner click ***File***, then select ***Add Folder to Workspace...***  
 
-    ![File](/assets/images/file.png) 
 
 3. Select ***just-the-docs*** and click ***Add***. 
    
-   ![just-the-docs Add](/assets/images/just-the-docsAdd.png) 
+
 
    Now you should see your repository and ***just-the-docs*** in the Workspace in the left sidebar.
 
@@ -74,27 +73,32 @@ If you don't want to create the set of files needed to generate the page yoursel
 
 3. After the **`remote_theme:`** type: ***my_username/just-the-docs***.
 
-   **Example:** If your username is *John30*, type: *John30/just-the-docs*.
-
 4. After the **`aux_links:`** type: ***"Source repository on GitHub": - "//github.com/my_username/my_username.github.io"***.
    
-   **Example:** If your username is *John30*, type: *"Source repository on GitHub": - "//github.com/John30/John30.github.io"*
+
 
 5. After the **`footer_content:`** type any text you want in the footer of your page.
+
+   Below you can see an example of a configured ***_config.yml*** file:
    
-   ![_config.yml](/assets/images/config.png)
+   ![_config.yml](/assets/images/yml2.png)
 
 6. Copy main ***index.md*** file from ***just-the-docs*** to your repository and open it.
 7. After the **`title:`** type the title of the homepage. It will also be visible in the table of contents.
-8. After the **`nav_order:`** should be "***1***".
+8. After the **`nav_order:`** type ***1***.
+
+   Below you can see an example of a configured ***index.md*** file:
+
+   ![index.md](/assets/images/index.png)
 
 The ***_config.yml*** and ***index.md*** are the two primary files that should be in your repository. The simplest sites have three more folders appearing in the repository. You can find them in the table below.
-
 | Folder | Description |
 | ------ | ----------- |
 | ***docs***   | This folder is for your text files. You can also put here subfolders for separate chapters. |
 | ***assets*** | This folder contains the ***Images*** subfolder where the images are located.|
 | ***_includes*** |This folder is for SVG files.  |
+
+
 
 
 
