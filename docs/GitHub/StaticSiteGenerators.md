@@ -46,8 +46,17 @@ If you don't want to create the set of files needed to generate the page yoursel
 
     ![Code](/assets/images/code2.png) 
 
+7. In the top left corner of GitHub Desktop, click ***Current repository just-the-docs***, then click ***Add*** and select ***Clone repository***.
 
+    ![Clone repository](/assets/images/Add.png) 
 
+8. When you see the notification ***Clone a repository***, select GitHub.com and repository ***my_username/just-the-docs***. Then choose local path and click ***Clone***.
+
+    ![Clone repository 2](/assets/images/zofia.png)
+
+9.  When you see the notification ***How are you planning to use this fork?***, select ***For my own purposes***. Then click ***Continue***.
+
+    ![For my own purposes](/assets/images/for.png)
 
 ### How to prepare your repository for configuration
 
