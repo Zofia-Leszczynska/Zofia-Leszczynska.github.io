@@ -43,7 +43,7 @@ To create an account on GitHub, perform the following actions:
 
 You have two ways to create a private repository. You can do this through GitHub or GitHub Desktop.  
 
-To create a private repository on GitHub, perform the following actions:
+To create a private repository through GitHub, perform the following actions:
 
 1. Log in to your account.
 2. Then click ***New*** at the top left of the screen.
@@ -51,7 +51,7 @@ To create a private repository on GitHub, perform the following actions:
 4. Select ***Private***.
 5. Then click ***Create repository***.  
    
-To create a private repository on GitHub Desktop, perform the following actions:  
+To create a private repository through GitHub Desktop, perform the following actions:  
 
 1. In the top menu click ***File***.
 2. Then select ***New repository...***.
