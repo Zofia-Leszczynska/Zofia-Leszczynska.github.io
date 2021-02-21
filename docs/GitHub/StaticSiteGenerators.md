@@ -27,21 +27,32 @@ To prepare your repository for configuration, perform the following actions:
 
 To configure your repository, perform following actions:
 
-1. Copy the file ***_config.yml*** from ***just-the-docs*** to your repository.
-2. Open it.
-3. After the **`title:`** enter the name of your web page.  
+1. Copy ***_config.yml*** file from ***just-the-docs*** to your repository and open it.
+2. After the **`title:`** type the name of your web page.  
    
    **📝 Note:** What you enter will be visible in the top left corner of your page.
 
-4. After the **`remote_theme:`** enter: ***my_username/just-the-docs***.
+3. After the **`remote_theme:`** type: ***my_username/just-the-docs***.
 
-   **Example:** If your username is *John30*, enter: *John30/just-the-docs*.
+   **Example:** If your username is *John30*, type: *John30/just-the-docs*.
 
-5. After the **`aux_links:`** enter: ***"Source repository on GitHub": - "//github.com/my_username/my_username.github.io"***.
+4. After the **`aux_links:`** type: ***"Source repository on GitHub": - "//github.com/my_username/my_username.github.io"***.
    
-   **Example:** If your username is *John30*, enter: *"Source repository on GitHub": - "//github.com/John30/John30.github.io"*
+   **Example:** If your username is *John30*, type: *"Source repository on GitHub": - "//github.com/John30/John30.github.io"*
 
-6. After the **`footer_content:`** 
+5. After the **`footer_content:`** type any text you want in the footer of your page.
+6. Copy main ***index.md*** file from ***just-the-docs*** to your repository and open it.
+7. After the **`title:`** type the title of the homepage. It will also be visible in the table of contents.
+8. After the **`nav_order:`** should be "***1***".
+
+The ***_config.yml*** and ***index.md*** are the two primary files that should be in your repository. The simplest sites have three more folders appearing in the repository. You can find them in the table below.
+
+| Folder | Description |
+| ------ | ----------- |
+| ***docs***   | This folder is for your text files. You can also put here subfolders for separate chapters. |
+| ***assets*** | This folder contains the ***Images*** subfolder where the images are located.|
+| ***_includes*** | This folder is for SVG files.|
+
 
 
 
