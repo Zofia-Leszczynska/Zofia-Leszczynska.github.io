@@ -4,7 +4,7 @@ title: GitHub
 nav_order: 4
 ---
 
-# Introduction to Git
+# Introduction to GitHub
 
 GitHub is a web hosting service. It is designed for software projects that use the Git version control system. 
 
