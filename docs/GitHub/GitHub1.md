@@ -9,20 +9,16 @@ nav_order: 4
 
 GitHub is a web hosting service. It is designed for software projects that use the Git version control system. 
 
-In this section you will learn:
-* how to create a GitHub account
-* how to create a private GitHub repository
-* how to share a private repository with selected users
 
 ## Table of Contents
 
-- [How to create an account](#how-to-create-an-account)
+- [How to create an account on GitHub](#how-to-create-an-account-on-github)
 - [GitHub Desktop](#github-desktop)
 - [Private repository](#private-repository)
   - [How to create a private repository?](#how-to-create-a-private-repository)
   - [Managing access to private repository](#managing-access-to-private-repository)
 
-# How to create an account
+# How to create an account on GitHub
 
 To create an account on GitHub, perform the following actions:
 
