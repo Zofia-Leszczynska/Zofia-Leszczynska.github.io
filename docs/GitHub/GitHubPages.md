@@ -40,9 +40,7 @@ To create GitHub Pages repository, follow the instructions:
 13. To check if your web page works, go into browser.
 14. In the web browser type the name of your GitHub Pages repository:  *my_username.github.io*.
 
-## Publishing HTML from a repository with Jekyll
 
-To publish your documentation on GitHub Pages, you don't have to create the HTML files yourself. You can use static site generator, that is, a software application that creates HTML pages from templates or components and a given content source. There are several static site generators. If you use GitHub Pages, Jekyll would be a good option, because it is integrated with GitHub for generating GitHub Pages.
 
 
 
