@@ -67,7 +67,7 @@ To create a private repository through GitHub Desktop, perform the following act
 If you want to invite collaborators to your private repository, perform the following actions:  
 
 1. Log in to your GitHub account. 
-2. On the right side of the screen you will see a list of all your repositories. Select the one you want to share.
+2. On the left side of the screen you will see a list of all your repositories. Select the one you want to share.
 3. On your repository page, select ***Settings***.
 4. Then select ***Manage access*** from the list on the left side of the screen.  
    
