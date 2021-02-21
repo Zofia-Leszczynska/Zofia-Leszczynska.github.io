@@ -48,7 +48,7 @@ If you don't want to create the set of files needed to generate the page yoursel
 
 7. In the top left corner of GitHub Desktop, click ***Current repository just-the-docs***, then click ***Add*** and select ***Clone repository***.
 
-    ![Clone repository](/assets/images/Add.png) 
+    ![Clone repository](/assets/images/add.png) 
 
 8. When you see the notification ***Clone a repository***, select GitHub.com and repository ***my_username/just-the-docs***. Then choose local path and click ***Clone***.
 
