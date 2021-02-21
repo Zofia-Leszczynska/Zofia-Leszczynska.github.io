@@ -4,7 +4,8 @@ title: GitHub
 nav_order: 4
 ---
 
-# Introduction to GitHub
+# Introduction to GitHub <!-- omit in toc -->
+
 
 GitHub is a web hosting service. It is designed for software projects that use the Git version control system. 
 
@@ -13,7 +14,15 @@ In this section you will learn:
 * how to create a private GitHub repository
 * how to share a private repository with selected users
 
-# Creating an account
+## Table of Contents
+
+- [How to create an account](#how-to-create-an-account)
+- [GitHub Desktop](#github-desktop)
+- [Private repository](#private-repository)
+  - [How to create a private repository?](#how-to-create-a-private-repository)
+  - [Managing access to private repository](#managing-access-to-private-repository)
+
+# How to create an account
 
 To create an account on GitHub, perform the following actions:
 

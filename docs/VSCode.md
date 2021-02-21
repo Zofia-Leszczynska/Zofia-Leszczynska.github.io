@@ -16,7 +16,7 @@ In this section, you will learn how to install VS Code and its extensions, as we
 
 
 
-### Table of Contents
+## Table of Contents
 
 - [How to install VS Code?](#how-to-install-vs-code)
 - [How to install extensions to VS Code?](#how-to-install-extensions-to-vs-code)
