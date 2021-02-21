@@ -51,8 +51,10 @@ The ***_config.yml*** and ***index.md*** are the two primary files that should b
 | ------ | ----------- |
 | ***docs***   | This folder is for your text files. You can also put here subfolders for separate chapters. |
 | ***assets*** | This folder contains the ***Images*** subfolder where the images are located.|
-| ***_includes*** | This folder is for SVG files.|
+| ***_includes*** |This folder is for SVG files.  |
 
 
+
+If you need more information, please use the documentation provided by the creator of Just the Docs: 
 
 
