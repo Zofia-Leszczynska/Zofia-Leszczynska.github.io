@@ -1,0 +1,23 @@
+{
+	"folders": [
+		{
+			"path": "..\\.."
+		},
+		{
+			"path": "..\\..\\..\\..\\Users\\macie\\OneDrive\\Desktop\\Studia\\GitHub\\Documentation"
+		}
+	],
+	"settings": {
+		"spellchecker.ignoreWordsList": [
+			"GitHub",
+			"blockquotes",
+			"secti",
+			"macOS",
+			"username",
+			"John30",
+			"html",
+			"HTMl",
+			"Gruber"
+		]
+	}
+}
